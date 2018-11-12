@@ -1,0 +1,357 @@
+
+ORIGIN,Description,Sum(FLIGHTS)
+"ABE","Allentown/Bethlehem/Easton, PA: Lehigh Valley International",2760
+"ABI","Abilene, TX: Abilene Regional",1331
+"ABQ","Albuquerque, NM: Albuquerque International Sunport",15963
+"ABR","Aberdeen, SD: Aberdeen Regional",484
+"ABY","Albany, GA: Southwest Georgia Regional",686
+"ACK","Nantucket, MA: Nantucket Memorial",809
+"ACT","Waco, TX: Waco Regional",1053
+"ACV","Arcata/Eureka, CA: California Redwood Coast Humboldt County",907
+"ACY","Atlantic City, NJ: Atlantic City International",2225
+"ADK","Adak Island, AK: Adak",69
+"ADQ","Kodiak, AK: Kodiak Airport",430
+"AEX","Alexandria, LA: Alexandria International",2284
+"AGS","Augusta, GA: Augusta Regional at Bush Field",3084
+"AKN","King Salmon, AK: King Salmon Airport",63
+"ALB","Albany, NY: Albany International",8418
+"ALO","Waterloo, IA: Waterloo Regional",450
+"AMA","Amarillo, TX: Rick Husband Amarillo International",3539
+"ANC","Anchorage, AK: Ted Stevens Anchorage International",12861
+"APN","Alpena, MI: Alpena County Regional",414
+"ASE","Aspen, CO: Aspen Pitkin County Sardy Field",5203
+"ATL","Atlanta, GA: Hartsfield-Jackson Atlanta International",262696
+"ATW","Appleton, WI: Appleton International",2891
+"AUS","Austin, TX: Austin - Bergstrom International",42180
+"AVL","Asheville, NC: Asheville Regional",4839
+"AVP","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",2260
+"AZA","Phoenix, AZ: Phoenix - Mesa Gateway",3618
+"AZO","Kalamazoo, MI: Kalamazoo/Battle Creek International",1872
+"BDL","Hartford, CT: Bradley International",18748
+"BET","Bethel, AK: Bethel Airport",563
+"BFF","Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",366
+"BFL","Bakersfield, CA: Meadows Field",1543
+"BGM","Binghamton, NY: Greater Binghamton/Edwin A. Link Field",601
+"BGR","Bangor, ME: Bangor International",2768
+"BHM","Birmingham, AL: Birmingham-Shuttlesworth International",11952
+"BIL","Billings, MT: Billings Logan International",2956
+"BIS","Bismarck/Mandan, ND: Bismarck Municipal",2514
+"BJI","Bemidji, MN: Bemidji Regional",496
+"BKG","Branson, MO: Branson Airport",34
+"BLI","Bellingham, WA: Bellingham International",1622
+"BLV","Belleville, IL: Scott AFB/MidAmerica",772
+"BMI","Bloomington/Normal, IL: Central Illinois Regional",2107
+"BNA","Nashville, TN: Nashville International",48550
+"BOI","Boise, ID: Boise Air Terminal",12928
+"BOS","Boston, MA: Logan International",99210
+"BPT","Beaumont/Port Arthur, TX: Jack Brooks Regional",536
+"BQK","Brunswick, GA: Brunswick Golden Isles",694
+"BQN","Aguadilla, PR: Rafael Hernandez",1281
+"BRD","Brainerd, MN: Brainerd Lakes Regional",429
+"BRO","Brownsville, TX: Brownsville South Padre Island International",1679
+"BRW","Barrow, AK: Wiley Post/Will Rogers Memorial",486
+"BTM","Butte, MT: Bert Mooney",450
+"BTR","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",5114
+"BTV","Burlington, VT: Burlington International",6392
+"BUF","Buffalo, NY: Buffalo Niagara International",17373
+"BUR","Burbank, CA: Bob Hope",17734
+"BWI","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",72112
+"BZN","Bozeman, MT: Bozeman Yellowstone International",4098
+"CAE","Columbia, SC: Columbia Metropolitan",4375
+"CAK","Akron, OH: Akron-Canton Regional",5040
+"CDC","Cedar City, UT: Cedar City Regional",416
+"CDV","Cordova, AK: Merle K Mudhole Smith",484
+"CGI","Cape Girardeau, MO: Cape Girardeau Regional",416
+"CHA","Chattanooga, TN: Lovell Field",5715
+"CHO","Charlottesville, VA: Charlottesville Albemarle",3735
+"CHS","Charleston, SC: Charleston AFB/International",16027
+"CID","Cedar Rapids/Iowa City, IA: The Eastern Iowa",6141
+"CIU","Sault Ste. Marie, MI: Chippewa County International",450
+"CKB","Clarksburg/Fairmont, WV: North Central West Virginia",544
+"CLE","Cleveland, OH: Cleveland-Hopkins International",32461
+"CLL","College Station/Bryan, TX: Easterwood Field",1529
+"CLT","Charlotte, NC: Charlotte Douglas International",155727
+"CMH","Columbus, OH: John Glenn Columbus International",30340
+"CMI","Champaign/Urbana, IL: University of Illinois/Willard",1580
+"CMX","Hancock/Houghton, MI: Houghton County Memorial",483
+"CNY","Moab, UT: Canyonlands Field",209
+"COD","Cody, WY: Yellowstone Regional",551
+"COS","Colorado Springs, CO: City of Colorado Springs Municipal",7040
+"COU","Columbia, MO: Columbia Regional",1523
+"CPR","Casper, WY: Casper/Natrona County International",658
+"CRP","Corpus Christi, TX: Corpus Christi International",3675
+"CRW","Charleston/Dunbar, WV: Yeager",3114
+"CSG","Columbus, GA: Columbus Airport",869
+"CVG","Cincinnati, OH: Cincinnati/Northern Kentucky International",33325
+"CWA","Mosinee, WI: Central Wisconsin",2006
+"DAB","Daytona Beach, FL: Daytona Beach International",2412
+"DAL","Dallas, TX: Dallas Love Field",47599
+"DAY","Dayton, OH: James M Cox/Dayton International",9338
+"DBQ","Dubuque, IA: Dubuque Regional",663
+"DCA","Washington, DC: Ronald Reagan Washington National",87310
+"DEN","Denver, CO: Denver International",157611
+"DFW","Dallas/Fort Worth, TX: Dallas/Fort Worth International",187500
+"DHN","Dothan, AL: Dothan Regional",925
+"DLG","Dillingham, AK: Dillingham Airport",84
+"DLH","Duluth, MN: Duluth International",1853
+"DRO","Durango, CO: Durango La Plata County",2127
+"DSM","Des Moines, IA: Des Moines International",10289
+"DTW","Detroit, MI: Detroit Metro Wayne County",106340
+"DVL","Devils Lake, ND: Devils Lake Regional",414
+"EAU","Eau Claire, WI: Chippewa Valley Regional",478
+"ECP","Panama City, FL: Northwest Florida Beaches International",3638
+"EGE","Eagle, CO: Eagle County Regional",1606
+"EKO","Elko, NV: Elko Regional",424
+"ELM","Elmira/Corning, NY: Elmira/Corning Regional",215
+"ELP","El Paso, TX: El Paso International",11153
+"ERI","Erie, PA: Erie International/Tom Ridge Field",669
+"ESC","Escanaba, MI: Delta County",418
+"EUG","Eugene, OR: Mahlon Sweet Field",2777
+"EVV","Evansville, IN: Evansville Regional",3125
+"EWN","New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",1418
+"EWR","Newark, NJ: Newark Liberty International",96834
+"EYW","Key West, FL: Key West International",3320
+"FAI","Fairbanks, AK: Fairbanks International",3010
+"FAR","Fargo, ND: Hector International",3905
+"FAT","Fresno, CA: Fresno Yosemite International",7200
+"FAY","Fayetteville, NC: Fayetteville Regional/Grannis Field",2581
+"FCA","Kalispell, MT: Glacier Park International",1770
+"FLG","Flagstaff, AZ: Flagstaff Pulliam",841
+"FLL","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",66157
+"FLO","Florence, SC: Florence Regional",170
+"FNT","Flint, MI: Bishop International",2897
+"FSD","Sioux Falls, SD: Joe Foss Field",3952
+"FSM","Fort Smith, AR: Fort Smith Regional",1370
+"FWA","Fort Wayne, IN: Fort Wayne International",4741
+"GCC","Gillette, WY: Gillette Campbell County",591
+"GCK","Garden City, KS: Garden City Regional",486
+"GEG","Spokane, WA: Spokane International",8052
+"GFK","Grand Forks, ND: Grand Forks International",1394
+"GGG","Longview, TX: East Texas Regional",518
+"GJT","Grand Junction, CO: Grand Junction Regional",2453
+"GNV","Gainesville, FL: Gainesville Regional",2968
+"GPT","Gulfport/Biloxi, MS: Gulfport-Biloxi International",2866
+"GRB","Green Bay, WI: Green Bay Austin Straubel International",3059
+"GRI","Grand Island, NE: Central Nebraska Regional",655
+"GRK","Killeen, TX: Robert Gray AAF",2002
+"GRR","Grand Rapids, MI: Gerald R. Ford International",11224
+"GSO","Greensboro/High Point, NC: Piedmont Triad International",8558
+"GSP","Greer, SC: Greenville-Spartanburg International",8510
+"GST","Gustavus, AK: Gustavus Airport",84
+"GTF","Great Falls, MT: Great Falls International",1207
+"GTR","Columbus, MS: Golden Triangle Regional",685
+"GUC","Gunnison, CO: Gunnison-Crested Butte Regional",191
+"GUM","Guam, TT: Guam International",345
+"HDN","Hayden, CO: Yampa Valley",778
+"HGR","Hagerstown, MD: Hagerstown Regional-Richard A. Henson Field",96
+"HHH","Hilton Head, SC: Hilton Head Airport",173
+"HIB","Hibbing, MN: Range Regional",417
+"HLN","Helena, MT: Helena Regional",1144
+"HNL","Honolulu, HI: Daniel K Inouye International",32918
+"HOB","Hobbs, NM: Lea County Regional",452
+"HOU","Houston, TX: William P Hobby",38482
+"HPN","White Plains, NY: Westchester County",6515
+"HRL","Harlingen/San Benito, TX: Valley International",2295
+"HSV","Huntsville, AL: Huntsville International-Carl T Jones Field",5618
+"HTS","Ashland, WV: Tri-State/Milton J. Ferguson Field",645
+"HVN","New Haven, CT: Tweed New Haven",689
+"HYA","Hyannis, MA: Barnstable Municipal-Boardman/Polando Field",85
+"HYS","Hays, KS: Hays Regional",663
+"IAD","Washington, DC: Washington Dulles International",44731
+"IAG","Niagara Falls, NY: Niagara Falls International",575
+"IAH","Houston, TX: George Bush Intercontinental/Houston",115327
+"ICT","Wichita, KS: Wichita Dwight D Eisenhower National",6987
+"IDA","Idaho Falls, ID: Idaho Falls Regional",1598
+"IFP","Bullhead City, AZ: Laughlin/Bullhead International",45
+"ILM","Wilmington, NC: Wilmington International",4491
+"IMT","Iron Mountain/Kingsfd, MI: Ford",425
+"IND","Indianapolis, IN: Indianapolis International",32732
+"INL","International Falls, MN: Falls International Einarson Field",439
+"ISN","Williston, ND: Sloulin Field International",963
+"ISP","Islip, NY: Long Island MacArthur",4417
+"ITH","Ithaca/Cortland, NY: Ithaca Tompkins Regional",660
+"ITO","Hilo, HI: Hilo International",4126
+"JAC","Jackson, WY: Jackson Hole",3066
+"JAN","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",5047
+"JAX","Jacksonville, FL: Jacksonville International",20467
+"JFK","New York, NY: John F. Kennedy International",86818
+"JLN","Joplin, MO: Joplin Regional",563
+"JMS","Jamestown, ND: Jamestown Regional",655
+"JNU","Juneau, AK: Juneau International",3121
+"KOA","Kona, HI: Ellison Onizuka Kona International at Keahole",10305
+"KTN","Ketchikan, AK: Ketchikan International",1704
+"LAN","Lansing, MI: Capital Region International",2269
+"LAR","Laramie, WY: Laramie Regional",417
+"LAS","Las Vegas, NV: McCarran International",108110
+"LAW","Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",906
+"LAX","Los Angeles, CA: Los Angeles International",149082
+"LBB","Lubbock, TX: Lubbock Preston Smith International",4247
+"LBE","Latrobe, PA: Arnold Palmer Regional",767
+"LBF","North Platte, NE: North Platte Regional Airport Lee Bird Field",361
+"LBL","Liberal, KS: Liberal Mid-America Regional",354
+"LCH","Lake Charles, LA: Lake Charles Regional",1271
+"LCK","Columbus, OH: Rickenbacker International",836
+"LEX","Lexington, KY: Blue Grass",6741
+"LFT","Lafayette, LA: Lafayette Regional Paul Fournet Field",2995
+"LGA","New York, NY: LaGuardia",115070
+"LGB","Long Beach, CA: Long Beach Airport",11876
+"LIH","Lihue, HI: Lihue Airport",9608
+"LIT","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",8930
+"LNK","Lincoln, NE: Lincoln Airport",1165
+"LRD","Laredo, TX: Laredo International",1655
+"LSE","La Crosse, WI: La Crosse Regional",1445
+"LWB","Lewisburg, WV: Greenbrier Valley",347
+"LWS","Lewiston, ID: Lewiston Nez Perce County",440
+"LYH","Lynchburg, VA: Lynchburg Regional/Preston Glenn Field",759
+"MAF","Midland/Odessa, TX: Midland International Air and Space Port",5925
+"MBS","Saginaw/Bay City/Midland, MI: MBS International",1925
+"MCI","Kansas City, MO: Kansas City International",37581
+"MCO","Orlando, FL: Orlando International",93551
+"MDT","Harrisburg, PA: Harrisburg International",4256
+"MDW","Chicago, IL: Chicago Midway International",58348
+"MEI","Meridian, MS: Key Field",728
+"MEM","Memphis, TN: Memphis International",15259
+"MFE","Mission/McAllen/Edinburg, TX: McAllen Miller International",3006
+"MFR","Medford, OR: Rogue Valley International - Medford",3128
+"MGM","Montgomery, AL: Montgomery Regional",2868
+"MHK","Manhattan/Ft. Riley, KS: Manhattan Regional",1206
+"MHT","Manchester, NH: Manchester-Boston Regional",6870
+"MIA","Miami, FL: Miami International",59746
+"MKE","Milwaukee, WI: General Mitchell International",22534
+"MKG","Muskegon, MI: Muskegon County",479
+"MLB","Melbourne, FL: Melbourne International",1648
+"MLI","Moline, IL: Quad City International",3418
+"MLU","Monroe, LA: Monroe Regional",2039
+"MMH","Mammoth Lakes, CA: Mammoth Lakes Airport",92
+"MOB","Mobile, AL: Mobile Regional",4468
+"MOT","Minot, ND: Minot International",1720
+"MQT","Marquette, MI: Sawyer International",919
+"MRY","Monterey, CA: Monterey Regional",2526
+"MSN","Madison, WI: Dane County Regional-Truax Field",8458
+"MSO","Missoula, MT: Missoula International",2288
+"MSP","Minneapolis, MN: Minneapolis-St Paul International",107509
+"MSY","New Orleans, LA: Louis Armstrong New Orleans International",37772
+"MTJ","Montrose/Delta, CO: Montrose Regional",1168
+"MVY","Martha's Vineyard, MA: Martha's Vineyard Airport",438
+"MYR","Myrtle Beach, SC: Myrtle Beach International",8142
+"OAJ","Jacksonville/Camp Lejeune, NC: Albert J Ellis",2159
+"OAK","Oakland, CA: Metropolitan Oakland International",34990
+"OGD","Ogden, UT: Ogden-Hinckley",90
+"OGG","Kahului, HI: Kahului Airport",17144
+"OGS","Ogdensburg, NY: Ogdensburg International",109
+"OKC","Oklahoma City, OK: Will Rogers World",15318
+"OMA","Omaha, NE: Eppley Airfield",16435
+"OME","Nome, AK: Nome Airport",483
+"ONT","Ontario, CA: Ontario International",14177
+"ORD","Chicago, IL: Chicago O'Hare International",220069
+"ORF","Norfolk, VA: Norfolk International",14806
+"ORH","Worcester, MA: Worcester Regional",600
+"OTH","North Bend/Coos Bay, OR: Southwest Oregon Regional",239
+"OTZ","Kotzebue, AK: Ralph Wien Memorial",484
+"OWB","Owensboro, KY: Owensboro Daviess County Regional",72
+"PAH","Paducah, KY: Barkley Regional",477
+"PBG","Plattsburgh, NY: Plattsburgh International",563
+"PBI","West Palm Beach/Palm Beach, FL: Palm Beach International",17521
+"PDX","Portland, OR: Portland International",42829
+"PGD","Punta Gorda, FL: Punta Gorda Airport",3660
+"PGV","Greenville, NC: Pitt Greenville",619
+"PHF","Newport News/Williamsburg, VA: Newport News/Williamsburg International",2066
+"PHL","Philadelphia, PA: Philadelphia International",78483
+"PHX","Phoenix, AZ: Phoenix Sky Harbor International",117562
+"PIA","Peoria, IL: General Downing - Peoria International",3599
+"PIB","Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",486
+"PIE","St. Petersburg, FL: St Pete Clearwater International",5259
+"PIH","Pocatello, ID: Pocatello Regional",840
+"PIT","Pittsburgh, PA: Pittsburgh International",32550
+"PLN","Pellston, MI: Pellston Regional Airport of Emmet County",726
+"PNS","Pensacola, FL: Pensacola International",7618
+"PPG","Pago Pago, TT: Pago Pago International",83
+"PRC","Prescott, AZ: Ernest A. Love Field",5
+"PSC","Pasco/Kennewick/Richland, WA: Tri Cities",2174
+"PSE","Ponce, PR: Mercedita",554
+"PSG","Petersburg, AK: Petersburg James A Johnson",486
+"PSM","Portsmouth, NH: Portsmouth International at Pease",219
+"PSP","Palm Springs, CA: Palm Springs International",7014
+"PUB","Pueblo, CO: Pueblo Memorial",594
+"PVD","Providence, RI: Theodore Francis Green State",12418
+"PVU","Provo, UT: Provo Municipal",359
+"PWM","Portland, ME: Portland International Jetport",7896
+"RAP","Rapid City, SD: Rapid City Regional",2923
+"RDD","Redding, CA: Redding Municipal",734
+"RDM","Bend/Redmond, OR: Roberts Field",2345
+"RDU","Raleigh/Durham, NC: Raleigh-Durham International",39986
+"RFD","Rockford, IL: Chicago/Rockford International",472
+"RHI","Rhinelander, WI: Rhinelander/Oneida County",482
+"RIC","Richmond, VA: Richmond International",15350
+"RKS","Rock Springs, WY: Rock Springs Sweetwater County",443
+"RNO","Reno, NV: Reno/Tahoe International",11875
+"ROA","Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",1693
+"ROC","Rochester, NY: Greater Rochester International",9265
+"ROW","Roswell, NM: Roswell International Air Center",908
+"RST","Rochester, MN: Rochester International",2094
+"RSW","Fort Myers, FL: Southwest Florida International",22769
+"SAF","Santa Fe, NM: Santa Fe Municipal",964
+"SAN","San Diego, CA: San Diego International",60427
+"SAT","San Antonio, TX: San Antonio International",26070
+"SAV","Savannah, GA: Savannah/Hilton Head International",10452
+"SBA","Santa Barbara, CA: Santa Barbara Municipal",4745
+"SBN","South Bend, IN: South Bend International",4430
+"SBP","San Luis Obispo, CA: San Luis County Regional",3182
+"SCC","Deadhorse, AK: Deadhorse Airport",611
+"SCE","State College, PA: University Park",759
+"SCK","Stockton, CA: Stockton Metropolitan",498
+"SDF","Louisville, KY: Louisville International-Standiford Field",14676
+"SEA","Seattle, WA: Seattle/Tacoma International",95126
+"SFB","Sanford, FL: Orlando Sanford International",6733
+"SFO","San Francisco, CA: San Francisco International",118329
+"SGF","Springfield, MO: Springfield-Branson National",5846
+"SGU","St. George, UT: St George Regional",2062
+"SHD","Staunton, VA: Shenandoah Valley Regional",407
+"SHV","Shreveport, LA: Shreveport Regional",4464
+"SIT","Sitka, AK: Sitka Rocky Gutierrez",977
+"SJC","San Jose, CA: Norman Y. Mineta San Jose International",35765
+"SJT","San Angelo, TX: San Angelo Regional/Mathis Field",960
+"SJU","San Juan, PR: Luis Munoz Marin International",17176
+"SLC","Salt Lake City, UT: Salt Lake City International",76031
+"SLN","Salina, KS: Salina Regional",372
+"SMF","Sacramento, CA: Sacramento International",30894
+"SMX","Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",105
+"SNA","Santa Ana, CA: John Wayne Airport-Orange County",27751
+"SPI","Springfield, IL: Abraham Lincoln Capital",1203
+"SPN","Saipan, TT: Francisco C. Ada Saipan International",101
+"SPS","Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",717
+"SRQ","Sarasota/Bradenton, FL: Sarasota/Bradenton International",4156
+"STC","St. Cloud, MN: St. Cloud Regional",99
+"STL","St. Louis, MO: St Louis Lambert International",44124
+"STS","Santa Rosa, CA: Charles M. Schulz - Sonoma County",1061
+"STT","Charlotte Amalie, VI: Cyril E King",1588
+"STX","Christiansted, VI: Henry E. Rohlsen",823
+"SUN","Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",881
+"SUX","Sioux City, IA: Sioux Gateway/Col. Bud Day Field",721
+"SWF","Newburgh/Poughkeepsie, NY: Stewart International",1193
+"SWO","Stillwater, OK: Stillwater Regional",508
+"SYR","Syracuse, NY: Syracuse Hancock International",9164
+"TLH","Tallahassee, FL: Tallahassee International",4064
+"TOL","Toledo, OH: Toledo Express",1426
+"TPA","Tampa, FL: Tampa International",50526
+"TRI","Bristol/Johnson City/Kingsport, TN: Tri Cities",2350
+"TTN","Trenton, NJ: Trenton Mercer",1696
+"TUL","Tulsa, OK: Tulsa International",11420
+"TUS","Tucson, AZ: Tucson International",12122
+"TVC","Traverse City, MI: Cherry Capital",2733
+"TWF","Twin Falls, ID: Joslin Field - Magic Valley Regional",891
+"TXK","Texarkana, AR: Texarkana Regional-Webb Field",793
+"TYR","Tyler, TX: Tyler Pounds Regional",917
+"TYS","Knoxville, TN: McGhee Tyson",10498
+"UIN","Quincy, IL: Quincy Regional-Baldwin Field",624
+"USA","CONCORD, NC: CONCORD REGIONAL",678
+"VEL","Vernal, UT: Vernal Regional",115
+"VLD","Valdosta, GA: Valdosta Regional",691
+"VPS","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",5332
+"WRG","Wrangell, AK: Wrangell Airport",486
+"WYS","West Yellowstone, MT: Yellowstone",187
+"XNA","Fayetteville, AR: Northwest Arkansas Regional",8465
+"YAK","Yakutat, AK: Yakutat Airport",484
+"YNG","Youngstown/Warren, OH: Youngstown-Warren Regional",2
+"YUM","Yuma, AZ: Yuma MCAS/Yuma International",941
+"All Rows","All Rows (including those not displayed)",4831576
